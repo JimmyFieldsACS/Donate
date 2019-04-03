@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelProject", "UnitTestProject2\ParallelProject.csproj", "{454E8941-E9F2-45E9-8863-5747620B51D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D7304DD9-774B-4551-8FC6-4CBE1AAF2BA3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Runsettings\ItemTemplates\parallel\parallel.runsettings = ..\..\..\Downloads\Runsettings\ItemTemplates\parallel\parallel.runsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454E8941-E9F2-45E9-8863-5747620B51D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454E8941-E9F2-45E9-8863-5747620B51D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454E8941-E9F2-45E9-8863-5747620B51D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454E8941-E9F2-45E9-8863-5747620B51D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5609ACC-FF14-4D0A-BF70-1E2AD81E5D0B}
+	EndGlobalSection
+EndGlobal
